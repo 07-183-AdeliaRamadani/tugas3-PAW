@@ -26,11 +26,10 @@
     ├── index.html
     ├── detail.html
     ├── style.css
-    ├── screenshots/
-    │   ├── pendaftaran-desktop.png
-    │   ├── detail-desktop.png
-    │   └── pendaftaran-mobile.png
-    └── RB-Adelia Ramadani-123140183-Tugas3-Pemweb.pdf
+    └── screenshots/
+        ├── pendaftaran-desktop.png
+        ├── detail-desktop.png
+        └── pendaftaran-mobile.png
 ```
 
 ## Penjelasan implementasi
@@ -92,8 +91,7 @@ Grid dipakai untuk layout dua kolom dan pasangan input. Flexbox dipakai pada hea
 | Desain query string | Atribut `name` dan contoh URL pada README |
 | Minimal tiga selector | Elemen, class, ID, atribut, dan pseudo-class |
 | Layout, box, tabel, dan form dengan CSS | Grid, Flexbox, panel, tabel, dan form control |
-| Folder pengumpulan `task_3` | Semua kode dan laporan berada di `task_3` |
-| Format nama laporan | `RB-Adelia Ramadani-123140183-Tugas3-Pemweb.pdf` |
+| Folder pengumpulan `task_3` | Semua kode dan tangkapan layar berada di `task_3` |
 
 ## Tampilan
 
